@@ -6,3 +6,4 @@ By puting a card in front of the cvamera, the computer recognizes it as a target
 
 The main idea is to take the card game "Yu-Gi-Oh" to a virtual world by implementing 3d models and animations, at the moment there are only a few 3d models but all cards have a HD sprite of itself.
 
+https://user-images.githubusercontent.com/63068119/140148055-70c49186-baaf-48ad-81a4-e2d89d967c12.mp4
